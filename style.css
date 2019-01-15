@@ -97,6 +97,12 @@ article {
   align-items: center;
 }
 
+article img {
+  border-radius: 50%;
+  border: 2px rgba(36, 132, 221, 0.563) solid;
+  margin-bottom: 5px;
+}
+
 article p {
   margin-bottom: 20px;
 }
